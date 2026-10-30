@@ -1,0 +1,53 @@
+model,protocol,bucket,users,recall@10
+Popularity,all items,<= 183,543,0.0538
+Popularity,all items,183 to 334,541,0.0423
+Popularity,all items,334 to 555,544,0.0417
+Popularity,all items,> 555,540,0.0287
+Popularity,new items,<= 183,517,0.0301
+Popularity,new items,183 to 334,533,0.0192
+Popularity,new items,334 to 555,535,0.0138
+Popularity,new items,> 555,537,0.0106
+Repeat purchase,all items,<= 183,543,0.1400
+Repeat purchase,all items,183 to 334,541,0.1114
+Repeat purchase,all items,334 to 555,544,0.0895
+Repeat purchase,all items,> 555,540,0.0646
+Content-based (commodity),all items,<= 183,543,0.0229
+Content-based (commodity),all items,183 to 334,541,0.0173
+Content-based (commodity),all items,334 to 555,544,0.0130
+Content-based (commodity),all items,> 555,540,0.0118
+Content-based (commodity),new items,<= 183,517,0.0190
+Content-based (commodity),new items,183 to 334,533,0.0088
+Content-based (commodity),new items,334 to 555,535,0.0069
+Content-based (commodity),new items,> 555,537,0.0052
+ItemKNN,all items,<= 183,543,0.0465
+ItemKNN,all items,183 to 334,541,0.0415
+ItemKNN,all items,334 to 555,544,0.0353
+ItemKNN,all items,> 555,540,0.0282
+ItemKNN,new items,<= 183,517,0.0326
+ItemKNN,new items,183 to 334,533,0.0216
+ItemKNN,new items,334 to 555,535,0.0152
+ItemKNN,new items,> 555,537,0.0114
+BPR-MF,all items,<= 183,543,0.0572
+BPR-MF,all items,183 to 334,541,0.0461
+BPR-MF,all items,334 to 555,544,0.0447
+BPR-MF,all items,> 555,540,0.0331
+BPR-MF,new items,<= 183,517,0.0350
+BPR-MF,new items,183 to 334,533,0.0208
+BPR-MF,new items,334 to 555,535,0.0146
+BPR-MF,new items,> 555,537,0.0112
+LightGCN,all items,<= 183,543,0.0639
+LightGCN,all items,183 to 334,541,0.0494
+LightGCN,all items,334 to 555,544,0.0520
+LightGCN,all items,> 555,540,0.0345
+LightGCN,new items,<= 183,517,0.0336
+LightGCN,new items,183 to 334,533,0.0201
+LightGCN,new items,334 to 555,535,0.0140
+LightGCN,new items,> 555,537,0.0107
+LightGCN + IPS,all items,<= 183,543,0.0609
+LightGCN + IPS,all items,183 to 334,541,0.0483
+LightGCN + IPS,all items,334 to 555,544,0.0497
+LightGCN + IPS,all items,> 555,540,0.0359
+LightGCN + IPS,new items,<= 183,517,0.0321
+LightGCN + IPS,new items,183 to 334,533,0.0202
+LightGCN + IPS,new items,334 to 555,535,0.0134
+LightGCN + IPS,new items,> 555,537,0.0118

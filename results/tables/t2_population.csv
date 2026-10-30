@@ -1,0 +1,5 @@
+treated,sample,households,pre_spend,pre_baskets,hist_spend,prior_type_a,prior_campaigns,concurrent_campaigns,out_spend,out_baskets,out_promoted_spend,out_coupon_cost,has_demographics
+0,all active households,1168,241.4358,8.7663,1147.7583,0.3716,0.7971,0.1370,180.5422,6.2021,86.8634,0.9404,0.1353
+1,all active households,1125,665.2286,22.5831,3496.6169,1.4987,3.4640,1.0533,473.9851,14.8107,218.7899,3.2319,0.5716
+0,overlap population,821,276.1300,10.0974,1342.6749,0.4933,1.0158,0.1474,201.6404,7.0012,98.0896,1.0913,0.1790
+1,overlap population,900,508.2509,17.3389,2674.5405,1.4033,2.9433,0.7567,369.6115,11.6900,175.8161,2.4434,0.5333

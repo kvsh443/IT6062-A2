@@ -1,0 +1,9 @@
+estimator,estimand,estimate,se,ci_low,ci_high,p_value
+Naive difference in means,ATE = ATT,153.2677,10.9564,131.7934,174.7419,0.0000
+Regression adjustment (OLS),ATE,-16.8537,11.3388,-39.0774,5.3699,0.1372
+Propensity score matching,ATT,-55.4170,31.1172,-116.4055,5.5715,0.0749
+Inverse probability weighting,ATT,-92.0988,32.8200,-156.4249,-27.7727,0.0050
+Inverse probability weighting,ATE,-43.2358,21.2402,-84.8659,-1.6057,0.0418
+Overlap weighting,ATO,-18.6311,10.9333,-40.0600,2.7977,0.0884
+Doubly robust AIPW,ATT,-51.0399,36.6722,-122.9161,20.8364,0.1640
+Doubly robust AIPW,ATE,-29.2581,21.3563,-71.1157,12.5995,0.1707

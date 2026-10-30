@@ -1,0 +1,2 @@
+propensity_auc,max_e_control,share_outside,households_full,treated_full,households_overlap,treated_overlap,controls_overlap,ess_controls_full,ess_controls_overlap,matched_treated,unique_controls_used,max_abs_smd_raw_all,max_abs_smd_raw,max_abs_smd_ipw,max_abs_smd_overlap,max_abs_smd_matched
+0.9115,0.9979,0.2495,2293,1125,1721,900,821,55.8408,133.7904,900,280,1.6682,1.2834,0.2573,0.0031,0.2736

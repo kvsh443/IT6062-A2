@@ -1,0 +1,2 @@
+households,products_sold,baskets,stores,first_day,last_day,weeks,missing_values_transactions,non_positive_sales_share,zero_quantity_share,quantity_over_100_share,demographic_coverage,households_in_any_campaign,campaigns,type_a_campaigns,mean_basket_lines,median_baskets_per_household,unmapped_commodity_products
+2500,92339,276484,582,1,711,102,0,0.0073,0.0056,0.0089,0.3204,1584,30,5,9.3884,79.0000,490

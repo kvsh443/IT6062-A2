@@ -1,0 +1,4 @@
+model,epochs
+BPR-MF,2
+LightGCN,14
+LightGCN + IPS,12

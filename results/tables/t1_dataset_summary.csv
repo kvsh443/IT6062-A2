@@ -1,0 +1,9 @@
+file,rows,columns,content
+transaction_data,2595732,12,"line items with household, basket, day, product, quantity, spend, discounts"
+product,92353,7,"department, commodity, brand type, manufacturer, pack size"
+hh_demographic,801,8,"age, income, household size, composition, home ownership"
+campaign_table,7208,3,household to campaign assignments
+campaign_desc,30,4,campaign type and start and end day
+coupon,124548,3,coupon to product links per campaign
+coupon_redempt,2318,4,coupon redemptions by household and day
+causal_data,36786524,5,weekly in-store display and mailer placement per product and store

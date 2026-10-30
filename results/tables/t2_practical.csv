@@ -1,0 +1,2 @@
+campaign,campaign_type,start_day,end_day,covariate_first_day,placebo_first_day,placebo_covariate_first_day,households,treated,treated_mean_spend,counterfactual_mean_spend,att,att_low,att_high,att_per_week,att_relative,att_relative_low,att_relative_high,coupon_cost_gap,total_incremental_spend
+18,TypeA,587,642,503,531,447,1721,900,369.6115,367.1324,2.4791,-62.7285,67.6867,0.3099,0.0068,-0.1709,0.1844,1.3521,2231.1679

@@ -1,0 +1,2 @@
+estimate,se,t_stat,df,partial_r2_treatment,robustness_value,robustness_value_alpha05
+-5.0472,11.6334,-0.4339,1700.0000,0.0001,0.0105,0.0000

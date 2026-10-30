@@ -1,0 +1,2 @@
+households,items,train_pairs,train_full_pairs,val_pairs,test_pairs,train_density,val_users,test_users,test_repeat_share,median_history
+2500,9661,843339,909535,133671,130227,0.0377,2194,2168,0.5288,334.5000

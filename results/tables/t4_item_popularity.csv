@@ -1,0 +1,14 @@
+model,protocol,head_recall_share,tail_recall_share,tail_share_of_test
+Popularity,all items,0.0543,0.0000,0.4434
+Popularity,new items,0.0338,0.0000,0.5533
+Repeat purchase,all items,0.1049,0.0275,0.4434
+Content-based (commodity),all items,0.0220,0.0009,0.4434
+Content-based (commodity),new items,0.0162,0.0004,0.5533
+ItemKNN,all items,0.0577,0.0000,0.4434
+ItemKNN,new items,0.0382,0.0000,0.5533
+BPR-MF,all items,0.0610,0.0000,0.4434
+BPR-MF,new items,0.0366,0.0000,0.5533
+LightGCN,all items,0.0642,0.0000,0.4434
+LightGCN,new items,0.0355,0.0000,0.5533
+LightGCN + IPS,all items,0.0660,0.0000,0.4434
+LightGCN + IPS,new items,0.0360,0.0000,0.5533

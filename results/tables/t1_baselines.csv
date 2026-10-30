@@ -1,0 +1,7 @@
+component,model,metric,value,spread,spread_kind
+causal,Naive difference in means,effect on 8-week spend (USD),293.4429,13.9453,standard error
+causal,OLS on treatment only,effect on 8-week spend (USD),293.4429,13.9515,HC3 standard error
+graph,Logistic regression on node features,test macro-F1,0.3978,0.0028,std over seeds
+graph,MLP on node features,test macro-F1,0.4634,0.0203,std over seeds
+recommender,"Popularity, all items",NDCG@10,0.2363,,deterministic
+recommender,"Popularity, new items",NDCG@10,0.0512,,deterministic

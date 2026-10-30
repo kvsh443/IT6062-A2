@@ -1,0 +1,7 @@
+label,sample,households,estimator,estimate,se
+none,overlap population,1721,Naive difference in means,167.9710,12.0708
+recency-frequency-monetary,overlap population,1721,Doubly robust AIPW,38.1964,19.7695
+behavioural (primary),overlap population,1721,Doubly robust AIPW,2.4791,33.2698
+behavioural + concurrent campaigns,overlap population,1721,Doubly robust AIPW,-11.5983,36.2298
+"behavioural, demographic subset",demographic subset,627,Doubly robust AIPW,50.9891,59.8981
+behavioural + demographics,demographic subset,627,Doubly robust AIPW,71.5874,61.8012
